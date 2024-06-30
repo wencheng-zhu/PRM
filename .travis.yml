@@ -1,0 +1,15 @@
+sudo: false
+
+language: python
+
+python: 3.7
+
+install:
+  - pip install -r requirements_dev.txt
+
+script:
+  - cd src
+  - coverage run -m pytest
+
+after_success:
+  - codecov --token=21707c4b-5ec5-4266-bf31-8684271cff0d

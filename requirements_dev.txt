@@ -1,0 +1,5 @@
+-r requirements.txt
+
+pytest==5.2.2
+coverage==4.5.4
+codecov==2.0.15
