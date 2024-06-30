@@ -1,6 +1,6 @@
 # PRM: A Pixel-Region-Matching Approach for Fast Video Object Segmentation
 
-[![Build Status](https://travis-ci.com/li-plus/PRM.svg?token=rRj9UK3xsDxEJrUDFLny&branch=master)](https://travis-ci.com/li-plus/DSNet/) [![codecov](https://codecov.io/gh/li-plus/PRM/branch/master/graph/badge.svg?token=HOxeP0BM8P)](https://codecov.io/gh/li-plus/PRM) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+[![codecov](https://codecov.io/gh/li-plus/PRM/branch/master/graph/badge.svg?token=HOxeP0BM8P)](https://codecov.io/gh/li-plus/PRM) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 A PyTorch implementation of our paper PRM: A Pixel-Region-Matching Approach for Fast Video Object Segmentation.
 
