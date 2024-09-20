@@ -206,7 +206,12 @@ To evaluate all checkpoints, use `$ROOT/script/test_all.sh` as well.
 
 ## Demo
 
-TODO
+@inproceedings{zhu2024prm,
+  title={PRM: a pixel-region-matching approach for fast video object segmentation},
+  author={Wang Zhen, Zhang Wenbin, Li Jiahao, Zhu Wencheng*, Song Danqing},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision},
+  year={2024}
+}
 
 ## Citation
 
